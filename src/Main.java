@@ -20,5 +20,9 @@ public class Main {
         System.out.println(p2);
          */
 
+
+        System.out.println("Si quiero mostrar solo el nombre: " + p.nombre);
+        System.out.println("Si quiero mostrar solo la edad no puedo: " + p.edad); // necesito un getter
+
     }
 }
